@@ -14,7 +14,7 @@ La placa en si. Varia mucho de precio dependiendo del pais, pero en España en A
 
 - 📎 [Ver en Kubii](https://www.kubii.com/es/pi-5-gaming-pack/4106-1832-raspberry-pi-5-3272496315938.html#/ram-8_gb)
 - 📎 [Ver en Amazon](https://www.amazon.es/Raspberry-Pi-SC1112-5-8GB/dp/B0CK2FCG1K)
-![Raspi](../assets/img/raspberry.jpg)
+![Raspi](./assets/img/raspberry.jpg)
 
 >Actualización: en la pagina donde lo compre (Kubii) ha subido 30€ desde que lo compré, por eso conviene mirar en las [tiendas]( ## Análisis de tiendas) oficiales y/o buscar packs de inicio.
 
@@ -32,7 +32,7 @@ El producto que escogí tiene ya cierta refrigeración para la caja compatible c
 - 📎 [Ver en Amazon](https://www.amazon.es/dp/B0D2M75GMB)
 - 📎 [Ver en AliExpress](https://es.aliexpress.com/item/1005008133308539.html)
 - 📄 [Documentación y Drivers (LCDWiki)](https://www.lcdwiki.com/MHS-3.5inch_RPi_Display)
-![Pantalla y más](../assets/img/pantalla.jpg)
+![Pantalla y más](./assets/img/pantalla.jpg)
 
 > Los ventiladores son distintos en cada tienda, pero los drivers de la pantalla son los mismos.
 
@@ -48,7 +48,7 @@ Para conectar la Raspi a un monitor externo, utilizo un adaptador simple en luga
 - 📎 [Adaptador económico 2 (Kubii)](https://www.kubii.com/es/cables-adaptadores-de-video/2753-adaptador-hdmi-a-micro-hdmi-8716309072731.html)
 - 📎 [Cable completo (Kubii)](https://www.kubii.com/es/cables-adaptadores-de-video/2704-cable-hdmi-a-micro-hdmi-05m-3272496298927.html)
 - 📎 [Capturadora](https://www.kubii.com/es/cables-adaptadores-de-video/3430-adaptador-de-hdmi-a-usb-7892021062319.html)
-![Adaptador](../assets/img/adaptador.jpg)
+![Adaptador](./assets/img/adaptador.jpg)
 
 > La capturadora es la más genérica, se puede encontrar por el mismo precio en la tienda Kubii, Amazon... etc. Pero en AliExpress se puede encontrar más barata.
 
@@ -63,7 +63,7 @@ Para mi uso, he preferido un mini teclado y touchpad 2 en 1 para tenerlo todo co
 
 - 📎 [Mini Teclado (Amazon)](https://www.amazon.es/dp/B00ZEZ4PQG)
 - 📎 [Teclado Grande (Amazon)](https://www.amazon.es/Tiardey-inal%C3%A1mbrico-Recargable-computadoras-compatibles/dp/B0D1R2XW2H)
-![Teclado](../assets/img/teclado.jpg)
+![Teclado](./assets/img/teclado.jpg)
 
 
 ### Fuente de alimentación
@@ -75,7 +75,7 @@ He elegido la fuente oficial de 27W USB-C 5V/5A.
 - **Color:** En negro por las tiendas oficiales de Raspberry Pi, ya que en Amazon solo esta en blanco.
 
 - 📎 [Fuente Oficial 27W (Kubii)](https://www.kubii.com/es/fuentes-de-alimentacion/4107-1890-fuente-de-alimentacion-raspberry-pi-27w-usb-c-3272496315761.html)
-![Fuente](../assets/img/fuente.jpg)
+![Fuente](./assets/img/fuente.jpg)
 
 
 ### Almacenamiento
@@ -88,7 +88,7 @@ Una tarjeta microSD de una marca reconocida (SanDisk, Samsung) es suficiente. Es
 - 📎 [Micro SD normal](https://www.amazon.es/SanDisk-Extreme-MicroSDXC-UHS-I-Class/dp/B09X7C7LL1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-4)
 - 📎 [Micro SD más rápida](https://www.amazon.es/SanDisk-microSDXC-Adaptador-Rendimiento-Aplicaciones/dp/B09X7BYSFG?source=ps-sl-shoppingads-lpcontext&language=es_ES)
 - 📎 [Ejemplo SSD (Tiendatec)](https://www.tiendatec.es/raspberry-pi/almacenamiento/2394-raspberry-pi-nmve-ssd-m2-2230-256gb-512gb.html)
-![Tarjeta](../assets/img/tarjeta.jpg)
+![Tarjeta](./assets/img/tarjeta.jpg)
 
 
 ---
@@ -119,14 +119,14 @@ Tras ver varios proveedores oficiales:
 Lista de accesorios interesantes que no tengo pero me interesan:
 
 - **Refrigeración:** Disipadores como los oficiales más baratos. 📎 [Ver en AliExpress](https://es.aliexpress.com/item/1005009843237918.html)
-	![Disipador con ventilador](../assets/img/disipador.jpg)
+	![Disipador con ventilador](./assets/img/disipador.jpg)
 - **Batería / UPS HAT:** Para convertir la Pi en un dispositivo portátil. Requiere cambiar la carcasa por una mas grande, ya sea básica o impresa en 3D personalizada y comprar las pilas de litio.
 	- 📎 [Opción en Amazon](https://www.amazon.es/Geekworm-X1205-Raspberry-Shutdown-Detection/dp/B0F2FKZ2YY)
     - 📎 [Opción en TiendaTec](https://www.tiendatec.es/raspberry-pi/raspberry-pi-alimentacion/2539-hat-ups-sai-para-raspberry-pi-5-5v-5a.html)
     - 📎 [Opción en Amazon de caja](https://www.amazon.es/Geekworm-X1205-C1-Raspberry-Active-Cooler/dp/B0F2HQ61YM)
-    ![UPS](../assets/img/ups.jpg)
+    ![UPS](./assets/img/ups.jpg)
 - **Inteligencia Artificial:** El módulo oficial AI HAT para correr modelos locales y usarlo en camaras que detecten lo que ven o en agentes personalizados. 📎 [Ver en TiendaTec](https://www.tiendatec.es/raspberry-pi/ai-raspberry-pi/2398-raspberry-pi-ai-hat-13tops-26tops.html)
-	![Modulo IA HAT](../assets/img/ia.jpg)
+	![Modulo IA HAT](./assets/img/ia.jpg)
 
 
 ---
